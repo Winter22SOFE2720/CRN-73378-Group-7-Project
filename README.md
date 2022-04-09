@@ -1,3 +1,9 @@
-# Project-Template
-### Please upload the project requirements creating similar folders in your project.
-### Make sure to create a good report for each module.
+# Title: Store
+### Authors:
+Sehar Ahmed - <br />
+Sterling Gallion - 100754018 <br />
+Kevin Jacob - <br />
+
+### Description:
+
+### Where do contents go?
