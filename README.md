@@ -3,13 +3,12 @@
 CRN: 73378 <br>
 Group: 7<br><br>
 Authors:<br>
-Sehar Ahmed - <br>
+Sehar Ahmed - 100808249<br>
 Sterling Gallion - 100754018 <br>
 Kevin Jacob - 100784257 <br>
 
 ### Contents:
 [Description of project](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project#description)<br>
-[Traceability Matrix]()<br>
 [Requirements](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Requirements#requirements)<br>
 [Use Cases](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Use%20Cases#use-cases)<br>
 [Design](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Design#design)<br>
