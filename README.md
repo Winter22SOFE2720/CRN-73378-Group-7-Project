@@ -8,7 +8,8 @@ Sterling Gallion - 100754018 <br>
 Kevin Jacob - <br>
 
 ### Contents:
-[Description of project]()<br>
+[Description of project](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project#description)<br>
+[Traceability Matrix]()<br>
 [Requirements](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Requirements#requirements)<br>
 [Use Cases](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Use%20Cases#use-cases)<br>
 [Design](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/tree/main/Design#design)<br>
