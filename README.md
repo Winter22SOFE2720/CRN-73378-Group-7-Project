@@ -5,7 +5,7 @@ Group: 7<br><br>
 Authors:<br>
 Sehar Ahmed - <br>
 Sterling Gallion - 100754018 <br>
-Kevin Jacob - <br>
+Kevin Jacob - 100784257 <br>
 
 ### Contents:
 [Description of project](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project#description)<br>
