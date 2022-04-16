@@ -165,7 +165,7 @@ body{
 }
 
 #banner{
-    background-image: URL(images/grocery/fruit/watermelon.jpg);
+    background-image: URL(../images/grocery/fruit/watermelon.jpg);
     height: 90vh;
     width: 100%;
     background-position: top 25% right 0;
@@ -187,7 +187,7 @@ body{
 }
 
 #banner button{
-    background-image: url("button.png");
+    background-image: url("../images/button.png");
     background-color: transparent;
     color: #4a954b;
     border: 0;
@@ -200,7 +200,7 @@ body{
 
 #featured-products{
     text-align: center;
-    background-image: URL(background.jpg);
+    background-image: URL(../images/background.jpg);
 }
 
 #featured-products .pro{
@@ -295,7 +295,7 @@ button.normal{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("images/b14.png");
+    background-image: url("../images/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #4a954b;
@@ -443,7 +443,7 @@ footer .copyright{
 
 #categories{
     text-align: center;
-    background-image: URL(background.jpg);
+    background-image: URL(../images/background.jpg);
 }
 
 #categories .pro{

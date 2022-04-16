@@ -4,10 +4,90 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Emptum Shopper</title>
+        
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
+    <script src="https://kit.fontawesome.com/e8454b169c.js" crossorigin="anonymous"></script>
+    <link rel ="stylesheet" href = "../CSS/style.css">
     <script src="../Javascript/cart.js" defer></script>
 </head>
 <body>
-    
+    <body>
+
+        <section id ="header">
+            <a href = "#"><img src = "../images/logo.png " class="logo" alt ="logo" width = 120px height = 120px></a>
+            <div class="title">
+                <h3>Emptum <span>Shopper</span></h3>
+            </div>
+            <div>
+                <ul id ="navbar">
+                    <li><a class="active" href ="index.html">Home</a></li>
+                    <div class="dropdown">
+                        <button class="dropbtn">Shop
+                          <i class="fa fa-caret-down"></i>
+                        </button>
+                        <div class="dropdown-content">
+                          <a href="beauty1.html">Beauty and Personal Care</a>
+                          <a href="books1.html">Books</a>
+                          <a href="men1.html">Men's Clothing</a>
+                          <a href="women1.html">Women's Clothing</a>
+                          <a href="grocery1.html">Grocery</a>
+                        </div>
+                      </div>
+                    <li><a href ="contact.html">Contact</a></li>
+                    <li><a href ="cart.html"><i class="fas fa-shopping-cart"></i></a></li>
+                </ul>
+            </div>
+        </section>
+        
+        <div id="cart-display">
+
+        </div>
+        <button id="empty">Empty cart</button>  
+
+        <footer class="section-p1">
+            <div class ="col">
+                <h4>Contact</h4>
+                <p><strong>Address: </strong>6754 Sheppard Avenue East, Scarborough, Toronto</p>
+                <p><strong>Phone: </strong>+1-416-584-6008</p>
+                <p><strong>Hours: </strong>10:00 - 22:00, Mon - Sat</p>
+                <div class = "follow">
+                <h4>Follow Us</h4>
+                    <div class ="icon">
+                        <i class = "fab fa-facebook-f"></i>
+                        <i class ="fab fa-twitter"></i>
+                        <i class ="fab fa-instagram"></i>
+                    </div>
+                </div>
+            </div>
+            <div class = "col">
+                <h4>About</h4>
+                <a href = "#">About Us</a>
+                <a href = "#">Privacy Policy</a>
+                <a href = "#">Delivery Information</a>
+                <a href = "#">Terms & Conditions</a>
+                <a href = "#">Contact Us</a>
+            </div>
+
+            <div class = "col">
+                <h4>My Account</h4>
+                <a href = "signin.php">Sign In</a>
+                <a href = "#">View Cart</a>
+                <a href = "#">My Wishlist</a>
+                <a href = "#">Track My Order</a>
+                <a href = "#">Help</a>
+            </div>
+
+            <div class ="col payment">
+                <h4>Payment</h4>
+                <p>Secure Payment Gateways</p>
+                <img src ="../images/pay.png">
+            </div>
+
+            <div class ="copyright">
+                <p>©2022. Emptum Shopper</p>
+            </div>
+
+        </footer>
 </body>
 </html>
