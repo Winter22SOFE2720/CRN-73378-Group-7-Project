@@ -18,3 +18,6 @@ There are several requirements each with their own subrequirements:
 |5. Comparisons|Customers shall be able to compare two or more products in one window with ease|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.1 Selecting items|Customers shall be able to select the items they want to compare before comparing|
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.2 Comparison page|Customers shall be shown a comparison page of the previously selected items|
+
+## Review Report
+[Review Report](https://github.com/Winter22SOFE2720/CRN-73378-Group-7-Project/blob/main/Requirements/Review%20of%20Requirements.pdf)
